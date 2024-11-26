@@ -21,7 +21,10 @@ Problem Statement: Generate rare-human actions with AI Video Generator
 - Launch the Gradio app for user interaction.
 
 # Interface Using Gradio:
-![]()
+![](images/img1.jpg)
+
+# Output :
+![](Screenshot 2024-11-26 172458.jpg)
 
 
 # Team Members:
