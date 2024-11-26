@@ -24,7 +24,7 @@ Problem Statement: Generate rare-human actions with AI Video Generator
 ![](images/img1.jpg)
 
 # Output :
-![](Screenshot 2024-11-26 172458.jpg)
+![](img2.jpg)
 
 
 # Team Members:
